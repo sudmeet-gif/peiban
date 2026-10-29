@@ -1,0 +1,1 @@
+"""Offline desktop companion application."""

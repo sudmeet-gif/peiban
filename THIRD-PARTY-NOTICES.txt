@@ -1,0 +1,9 @@
+本软件包含以下第三方模型和运行组件，权利归各自作者所有：
+
+SenseVoiceSmall 语音识别模型：FunAudioLLM / Alibaba Group，ONNX 转换：sherpa-onnx / csukuangfj。
+模型来源：https://huggingface.co/csukuangfj/sherpa-onnx-sense-voice-zh-en-ja-ko-yue-2024-07-17
+模型许可：FunASR Model Open Source License Agreement 1.1，全文见同目录 FunASR_MODEL_LICENSE.txt。
+
+Qwen3、Qwen3-VL 和 Qwen3-TTS：Qwen 团队，Apache License 2.0；安装目录 models 中含 Qwen3-LICENSE.txt。
+llama.cpp 及其运行库：ggml-org / llama.cpp，许可证文件位于安装目录 runtime 中。
+其他 Python 组件的许可文件位于安装目录 speech_runtime/Lib/site-packages 下各组件的 dist-info 目录中。

@@ -1,0 +1,5 @@
+qwen-tts==0.1.1
+transformers==4.57.3
+sherpa-onnx==1.13.8
+scipy==1.18.1
+soundfile==0.14.0
